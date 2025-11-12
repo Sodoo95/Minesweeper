@@ -1,0 +1,26 @@
+#pragma once
+#define IDB_BACKGROUND 101
+#define IDB_COVER 102
+#define IDB_MINE 103
+#define IDB_1 104
+#define IDB_2 105
+#define IDB_3 106
+#define IDB_EMPTY 107
+#define IDB_FLAG 108
+#define IDB_COUNTER0 109
+#define IDB_SMILY 110
+#define IDB_MINEEND 111
+#define IDB_SMILYPRESSED 112
+#define IDB_SMILYDEAD 113
+#define IDB_COUNTER1 114
+#define IDB_COUNTER2 115
+#define IDB_COUNTER3 116
+#define IDB_COUNTER4 117
+#define IDB_COUNTER5 118
+#define IDB_COUNTER6 119
+#define IDB_COUNTER7 120
+#define IDB_COUNTER8 121
+#define IDB_COUNTER9 122
+#define IDI_SMALLICON 123
+#define IDI_BIGICON 124
+
